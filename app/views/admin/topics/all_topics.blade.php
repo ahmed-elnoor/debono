@@ -46,7 +46,7 @@
 
 <div class="table-responsive">
   
-<table  class="result_table table-bordered table-hover" style="text-align:center;">
+<table  class="result_table table table-hover" >
 
   <thead>
     <tr>
